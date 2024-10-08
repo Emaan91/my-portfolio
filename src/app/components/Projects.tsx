@@ -29,7 +29,7 @@ export default function Projects() {
           className="w-full lg:w-1/4"
         >
           <Image
-            src="/project-img.jpg"
+            src="./project-img.jpg"
             alt="Project Image"
             width={200}
             height={200}
@@ -82,7 +82,7 @@ export default function Projects() {
           className="w-full lg:w-1/4"
         >
           <Image
-            src="/project-img.jpg"
+            src="./project-img.jpg"
             alt="Project Image"
             width={200}
             height={200}
@@ -135,7 +135,7 @@ export default function Projects() {
           className="w-full lg:w-1/4"
         >
           <Image
-            src="/project-img.jpg"
+            src="./project-img.jpg"
             alt="Project Image"
             width={200}
             height={200}
@@ -188,7 +188,7 @@ export default function Projects() {
           className="w-full lg:w-1/4"
         >
           <Image
-            src="/project-img.jpg"
+            src="./project-img.jpg"
             alt="Project Image"
             width={200}
             height={200}

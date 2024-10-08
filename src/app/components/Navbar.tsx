@@ -17,7 +17,7 @@ export default function Navbar() {
 
         <Image
           className="mx-10"
-          src="/emaan-logo.png"
+          src="./emaan-logo.png"
           alt="logo"
           width={80}
           height={80}
