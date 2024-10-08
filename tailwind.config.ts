@@ -12,6 +12,10 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        "new-york-escape": ["var(--new-york-escape)", "sans-serif"],
+        "roboto-light": ["var(--roboto-light)", "sans-serif"],
+      },
     },
   },
   plugins: [],
