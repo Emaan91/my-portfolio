@@ -26,7 +26,7 @@ export default function Hero() {
                   initial={{ x: 100, opacity: 0 }}
                   animate={{ x: 0, opacity: 1 }}
                   transition={{ duration: 1, delay: 0.4, ease: "easeOut" }}
-                  src="/main-img.jpg"
+                  src="./main-img.jpg"
                   alt="Hero Image"
                   width={400}
                   height={400}
