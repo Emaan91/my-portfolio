@@ -1,5 +1,4 @@
 import Link from "next/link";
-import Image from "next/image";
 import { FaSquareUpwork } from "react-icons/fa6";
 import { FaLinkedin, FaGithub, FaStackOverflow } from "react-icons/fa";
 import * as motion from "framer-motion/client";
@@ -15,13 +14,13 @@ export default function Navbar() {
       <div className="flex flex-shrink-0 items-center">
         {/* Logo */}
 
-        <Image
+        <img
           className="mx-10"
           src="/emaan-logo.png"
           alt="logo"
           width={80}
           height={80}
-        />
+        ></img>
       </div>
 
       {/* Links */}

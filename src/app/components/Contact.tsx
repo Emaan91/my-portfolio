@@ -13,7 +13,7 @@ export default function Contact() {
         className="my-10 text-center font-roboto-light text-4xl tracking-tight"
       >
         Feel Free To
-        <span className="font-bold text-fuchsia-800"> Contact Me!</span>
+        <span className="font-bold text-fuchsia-800"> Reach Out!</span>
       </motion.h2>
 
       <div className="pt-12 text-center font-roboto-light text-2xl tracking-tight">
