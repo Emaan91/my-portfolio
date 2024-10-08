@@ -67,7 +67,7 @@ const ParticlesContainer = () => {
             default: OutMode.out,
           },
           random: false,
-          speed: 1,
+          speed: 2,
           straight: false,
         },
         number: {
