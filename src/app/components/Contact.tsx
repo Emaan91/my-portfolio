@@ -27,7 +27,7 @@ export default function Contact() {
         >
           <Link
             className="text-fuchsia-800 underline hover:text-fuchsia-500"
-            href="https://www.upwork.com/freelancers/~01525e85eb3163e499"
+            href="#"
           >
             Upwork
           </Link>
@@ -43,7 +43,7 @@ export default function Contact() {
         >
           <Link
             className="text-fuchsia-800 underline hover:text-fuchsia-500"
-            href="https://www.linkedin.com/in/emaan-arshad-82134b219/"
+            href="#"
           >
             LinkedIn
           </Link>
@@ -59,11 +59,8 @@ export default function Contact() {
         >
           <p>
             Email at:
-            <a
-              href="mailto:emaanfiverr@gmail.com"
-              className="text-fuchsia-800 underline ml-2 hover:text-fuchsia-500"
-            >
-              emaanfiverr@gmail.com
+            <a className="text-fuchsia-800 underline ml-2 hover:text-fuchsia-500">
+              example@mail.com
             </a>
           </p>
         </motion.div>

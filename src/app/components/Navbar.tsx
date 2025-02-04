@@ -29,25 +29,25 @@ export default function Navbar() {
       <div className="m-8 flex items-center justify-center gap-4 text-2xl">
         <Link
           className="hover:scale-110 hover:animate-spin focus:scale-110 focus:animate-spin"
-          href="https://www.upwork.com/freelancers/~01525e85eb3163e499"
+          href="#"
         >
           <FaSquareUpwork />
         </Link>
         <Link
           className="hover:scale-110 hover:animate-spin focus:scale-110 focus:animate-spin"
-          href="https://www.linkedin.com/in/emaan-arshad-82134b219/"
+          href="#"
         >
           <FaLinkedin />
         </Link>
         <Link
           className="hover:scale-110 hover:animate-spin focus:scale-110 focus:animate-spin"
-          href="https://github.com/Emaan91"
+          href="#"
         >
           <FaGithub />
         </Link>
         <Link
           className="hover:scale-110 hover:animate-spin focus:scale-110 focus:animate-spin"
-          href="https://stackoverflow.com/users/27587403/emaan-arshad"
+          href="#"
         >
           <FaStackOverflow />
         </Link>
